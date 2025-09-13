@@ -1,0 +1,9 @@
+pyautogui
+pyperclip
+selenium
+webdriver-manager
+langchain
+langchain-google-genai
+python-dotenv
+PyQt5
+pillow
