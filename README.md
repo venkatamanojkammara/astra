@@ -1,11 +1,11 @@
 # AgentAstra
 
-**AgentAstra** is an intelligent desktop automation agent powered by Google's Gemini AI and LangChain. It provides a conversational interface to control your computer through natural language commands, enabling you to automate web browsing, system operations, media control, and more.
+**AgentAstra** is an intelligent desktop automation agent powered by powerful LLMs and LangChain. It provides a conversational interface to control your computer through natural language commands, enabling you to automate web browsing, system operations, media control, and more.
 
 ## Features
 
 ### AI-Powered Automation
-- **Natural Language Interface**
+- **Natural Language Interaction**
 - **LLM Integration**
 - **Real-time Chat Interface**
 
